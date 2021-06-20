@@ -1,0 +1,4 @@
+name: ams
+recipe: wordpress
+config:
+  webroot: wordpress
